@@ -1,4 +1,4 @@
-package com.Bootcamp.DIFFICULT_Part1_10programing;
+package com.Max_SupArraySumQ26;
 
 public class Max_SubArraySumQ26 {
 

@@ -1,4 +1,4 @@
-package com.QueueUsingTowStack;
+package com.QueueUsingTowStackQ24;
 
 import java.util.Stack;
 

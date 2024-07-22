@@ -1,4 +1,4 @@
-package com.StackLinked_Implementtion;
+package com.StackLinked_ImplementtionQ23;
 
 public class Node {
 	

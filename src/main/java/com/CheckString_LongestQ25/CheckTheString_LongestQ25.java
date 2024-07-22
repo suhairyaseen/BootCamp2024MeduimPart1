@@ -1,4 +1,4 @@
-package com.Bootcamp.DIFFICULT_Part1_10programing;
+package com.CheckString_LongestQ25;
 
 public class CheckTheString_LongestQ25 {
 
